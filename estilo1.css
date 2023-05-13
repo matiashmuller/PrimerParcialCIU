@@ -4,19 +4,48 @@
     font-family: 'Maven Pro', sans-serif;
 }
 
-@media only screen and (min-width: 767px) {
+@media only screen and (min-width: 1200px) {
 
     #topicArt,
     #titulo article{
-        max-width: 40vw;
+        max-width: 35vw !important;
         margin-left: auto !important;
         margin-right: auto !important;
     }
 
     #detailsArt {
-        max-width: 50vw;
+        max-width: 50vw !important;
         margin-left: auto !important;
         margin-right: auto !important;
+    }
+}
+
+@media only screen and (min-width: 767px) {
+
+    #topicArt,
+    #titulo article, #detailsArt {
+        max-width: 60vw;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    #titulo h1, #topicArt h1, #detailsArt h1{
+        font-size: calc(10vw) !important;
+    }
+    #titulo h3 {
+        font-size: calc(5vw);
+    }
+    #topicArt, #detailsArt{
+        font-size: calc(4vw);
+    }
+
+}
+
+@media only screen and (max-width: 400px) {
+    iframe, #form{
+        max-width: 100%;
     }
 }
 
