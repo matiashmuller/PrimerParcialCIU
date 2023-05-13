@@ -9,10 +9,10 @@ Desarrollar una landing page para el "evento del año" de la plataforma de e-lea
 
 ### Enfoque personal
 
-Para encarar este proyecto traté de aplicar *KISS (keep it simple stupid)*, que irónicamente se puede volver bastante complejo. Tomé muy en cuenta también la devolución sobre mi trabajo práctico, por lo que intenté usar mucho más Bootstrap y no tanto CSS "artesanal". Para el diseño y los colores me basé en la página guía (The Metaverse: A Glimpse into the Future of Work) buscando que quede algo similar, aunque no igual. Por otro lado, elegí mantener el idioma nativo de las fuentes dadas, el inglés.
+Para encarar este proyecto traté de aplicar *KISS (keep it simple stupid)*, que irónicamente se puede volver bastante complejo. Tomé muy en cuenta también la devolución sobre mi trabajo práctico, por lo que intenté usar mucho más Bootstrap y no tanto CSS "artesanal". Para el diseño y los colores me basé en la página guía ([The Metaverse: A Glimpse into the Future of Work](https://www.virbela.com/go/metaverse-future-of-work)) buscando que quede algo similar, aunque no igual. Por otro lado, elegí mantener el idioma nativo de las fuentes dadas, el inglés.
 
 ### Enlace al proyecto
 
-Se puede acceder al proyecto haciendo click [acá](https://matiashmuller.github.io/PrimerParcialCIU/)
+Se puede acceder al proyecto haciendo click [acá](https://matiashmuller.github.io/PrimerParcialCIU/).
 
 
